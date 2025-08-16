@@ -2,6 +2,4 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
